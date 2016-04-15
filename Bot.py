@@ -2,10 +2,10 @@ import asyncio
 import discord
 import sqlite3
 
-email = 'andrewmarkfrey+bot@gmail.com'
-password = 'QWE##rty64'
-opusPath = 'D:\Andrew\Code\TunesBot\libopus-0.dll'
-music_root = 'E:\Music\Music\Lossy'
+email = 'email'
+password = 'password'
+opusPath = 'C:\Path\to\opuslibopus-0.dll'
+music_root = 'C:\Music'
 
 
 conn = sqlite3.connect('Music.db')
